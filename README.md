@@ -1,7 +1,5 @@
 # Controle de Combustível
 
-<img src="assets/icons/logo_combustivel.png" alt="Logo do app" width="96">
-
 Aplicativo Flutter (Android) para registrar os abastecimentos de um veículo e acompanhar os gastos com combustível e o consumo ao longo do tempo.
 
 Atividade Substitutiva da Prova 1 · Programação para Dispositivos Móveis II · Prof. Arley · FATEC Jacareí
